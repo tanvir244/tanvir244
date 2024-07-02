@@ -1,9 +1,20 @@
 ![](https://i.ibb.co/Gn41XYj/Tanvir-Rahman-1.png)
-## About Me
+<h2 font="bold">About Me</h2>
 As a passionate learner, I've dedicated myself to learning the skill set of web application development. Throughout this extensive journey, my primary focus has been on frontend development. Along the way, I've successfully completed numerous practice projects tailored to frontend development, significantly enhancing my understanding of each component showcased on my GitHub profile. Currently, I'm studying in a Bachelor's program with a focus on Economics.
 
 <br/>
-[[!My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,github,react,firebase,nodejs,express,mongodb)](https://skillicons.dev)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/hellotanvir4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fariyanusrat" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tanvirrahman.saim.7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nusratjahan.fariya" height="30" width="40" /></a>
+</p>
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=git" alt="typescript" width="40" height="40"/> </a>  </p>
+
+
 
 <hr/>
 <br/>
