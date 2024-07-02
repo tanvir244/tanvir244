@@ -10,10 +10,18 @@ As a passionate learner, I've dedicated myself to learning the skill set of web 
 </p>
 
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=git" alt="typescript" width="40" height="40"/> </a>  </p>
-
+<h3 align="left">Skills:</h3>
+<p align="left"> 
+    <a href="https://github.com/tanvir244" target="_blank"> <img src="https://skillicons.dev/icons?i=html" alt="html" width="60" height="50"/> </a>  
+    <a href="https://github.com/tanvir244" target="_blank"> <img src="https://skillicons.dev/icons?i=css" alt="css" width="60" height="50"/> </a>
+    <a href="https://github.com/tanvir244" target="_blank"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="60" height="50"/> </a>
+    <a href="https://github.com/tanvir244" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60" height="50"/> </a>
+    <a href="https://github.com/tanvir244" target="_blank"> <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" height="50"/> </a>
+    <a href="https://github.com/tanvir244" target="_blank"> <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="60" height="50"/> </a>
+    <a href="https://github.com/tanvir244" target="_blank"> <img src="https://skillicons.dev/icons?i=nodejs" alt="Node JS" width="60" height="50"/> </a>
+    <a href="https://github.com/tanvir244" target="_blank"> <img src="https://skillicons.dev/icons?i=express" alt="Express" width="60" height="50"/> </a>
+    <a href="https://github.com/tanvir244" target="_blank"> <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="50"/> </a>    
+</p>
 
 
 <hr/>
