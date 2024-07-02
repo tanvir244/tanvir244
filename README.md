@@ -2,7 +2,7 @@
 
 As a passionate learner, I've dedicated myself to learning the skill set of web application development. Throughout this extensive journey, my primary focus has been on frontend development. Along the way, I've successfully completed numerous practice projects tailored to frontend development, significantly enhancing my understanding of each component showcased on my GitHub profile. Currently, I'm studying in a Bachelor's program with a focus on Economics.
 
-Skills: Tailwind CSS / JavaScript / React.js / Node.js / Express.js / MongoDB
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 <br/>
 <hr/>
