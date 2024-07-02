@@ -3,14 +3,14 @@
 As a passionate learner, I've dedicated myself to learning the skill set of web application development. Throughout this extensive journey, my primary focus has been on frontend development. Along the way, I've successfully completed numerous practice projects tailored to frontend development, significantly enhancing my understanding of each component showcased on my GitHub profile. Currently, I'm studying in a Bachelor's program with a focus on Economics.
 
 <br/>
-<h3 align="left">Connect with me:</h3>
+<h2 align="left" font="bold">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/hellotanvir4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fariyanusrat" height="30" width="40" /></a>
-<a href="https://www.facebook.com/tanvirrahman.saim.7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nusratjahan.fariya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hellotanvir4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fariyanusrat" height="50" width="60" /></a>
+<a href="https://www.facebook.com/tanvirrahman.saim.7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nusratjahan.fariya" height="50" width="60" /></a>
 </p>
 
 
-<h3 align="left">Skills:</h3>
+<h2 align="left" font="bold">Skills:</h2>
 <p align="left"> 
     <a href="https://github.com/tanvir244" target="_blank"> <img src="https://skillicons.dev/icons?i=html" alt="html" width="60" height="50"/> </a>  
     <a href="https://github.com/tanvir244" target="_blank"> <img src="https://skillicons.dev/icons?i=css" alt="css" width="60" height="50"/> </a>
