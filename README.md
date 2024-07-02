@@ -6,7 +6,6 @@ As a passionate learner, I've dedicated myself to learning the skill set of web 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,github,react,firebase,nodejs,express,mongodb)](https://skillicons.dev)
 
-<br/>
 <hr/>
 <br/>
 
