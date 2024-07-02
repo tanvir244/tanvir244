@@ -4,6 +4,7 @@ As a passionate learner, I've dedicated myself to learning the skill set of web 
 
 ### Technology :
 <br/>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,github,react,firebase,nodejs,express,mongodb)](https://skillicons.dev)
 
 <br/>
