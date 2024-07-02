@@ -21,8 +21,9 @@ As a passionate learner, I've dedicated myself to learning the skill set of web 
 <a href="https://www.facebook.com/tanvirrahman.saim.7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nusratjahan.fariya" height="50" width="60" /></a>
 </p>
 
-<hr/>
+
 <br/>
+<hr/>
 
 <p align="center">
     <img alt="Tanvir's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tanvir244&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
